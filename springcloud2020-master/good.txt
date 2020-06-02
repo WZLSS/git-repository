@@ -2,4 +2,4 @@ study make me happy , i wang happy everyday!
 
 second update some word.
 
-test branch wzl merge.
+test branch wzl merge. test conflict master
